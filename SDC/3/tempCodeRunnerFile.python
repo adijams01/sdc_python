@@ -1,0 +1,6 @@
+import math
+from math import atan2
+x,y=map(int,input().split())
+z=math.degrees(atan2(y,x))
+print("{0:.2f}".format(z))
+
