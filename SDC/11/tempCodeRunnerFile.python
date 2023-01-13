@@ -1,0 +1,13 @@
+#11.12
+import random
+b = 'abcdefghijklmnopqrstuvwxyz'
+c = list(b)
+random.shuffle(c)
+a = {}
+print(c)
+for i in range(26):
+    a[b[i]]=c[i]
+print(a)
+x = input()
+for i in x:
+    print(a[i],end="")
