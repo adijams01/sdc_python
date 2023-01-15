@@ -1,0 +1,10 @@
+india 1000
+pakistan 950
+china 1500
+japan 900
+swizerland 789
+germany 700
+gstate 400
+georgia 650
+uruguay 200
+russia 700

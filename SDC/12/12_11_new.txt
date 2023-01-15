@@ -1,0 +1,30 @@
+01 january 2022 0.0 New York
+02 january 2022 -3.89 Chicago
+03 january 2022 -1.11 Los Angeles
+04 january 2022 4.44 Miami
+05 january 2022 7.22 Seattle
+06 january 2022 10.0 Denver
+07 january 2022 12.78 Austin
+08 january 2022 15.56 Boston
+09 january 2022 18.33 San Francisco
+10 january 2022 21.11 Philadelphia
+11 january 2022 23.89 Washington D.C.
+12 january 2022 26.67 Houston
+13 january 2022 29.44 Las Vegas
+14 january 2022 32.22 Portland
+15 january 2022 35.0 Atlanta
+16 january 2022 37.78 New Orleans
+17 january 2022 40.56 Baltimore
+18 january 2022 43.33 Dallas
+19 january 2022 46.11 San Diego
+20 january 2022 48.89 Nashville
+21 january 2022 51.67 Minneapolis
+22 january 2022 54.44 Tampa
+23 january 2022 57.22 Detroit
+24 january 2022 60.0 St. Louis
+25 january 2022 62.78 Sacramento
+26 january 2022 65.56 Kansas City
+27 january 2022 68.33 Phoenix
+28 january 2022 71.11 Cincinnati
+29 january 2022 73.89 Cleveland
+30 january 2022 76.67 Pittsburgh

@@ -1,0 +1,33 @@
+John Smith New York Yankees \t 12 \t 0.275
+Michael Johnson Boston Red Sox \t 14 \t 0.287
+Emily Brown Chicago Cubs \t 8 \t 0.270
+David Garcia Los Angeles Dodgers \t 11 \t 0.290
+Jennifer Davis Houston Astros \t 9 \t 0.265
+Kevin Martinez St. Louis Cardinals \t 7 \t 0.280
+Sarah Anderson Atlanta Braves \t 10 \t 0.290
+Brian Wilson Cincinnati Reds \t 13 \t 0.285
+Melissa Thompson San Francisco Giants \t 6 \t 0.265
+Michael Perez Philadelphia Phillies \t 12 \t 0.278
+Steven Lee Seattle Mariners \t 8 \t 0.272
+Ashley Young Texas Rangers \t 10 \t 0.280
+Anthony Adams Oakland Athletics \t 11 \t 0.285
+Brandon King Minnesota Twins \t 9 \t 0.270
+Christina Baker New York Mets \t 6 \t 0.265
+Ryan Allen Tampa Bay Rays \t 12 \t 0.280
+Rachel Nelson Arizona Diamondbacks \t 8 \t 0.275
+Jonathan Cook Pittsburgh Pirates \t 10 \t 0.280
+Samantha Perez Miami Marlins \t 9 \t 0.270
+Jason Wood Kansas City Royals \t 7 \t 0.275
+Kevin Carter Chicago White Sox \t 11 \t 0.290
+Elizabeth Cooper Toronto Blue Jays \t 10 \t 0.280
+Brian Young Washington Nationals \t 12 \t 0.290
+Christopher Nelson Cleveland Indians \t 8 \t 0.270
+Rachel Baker Detroit Tigers \t 9 \t 0.275
+Kevin Anderson San Diego Padres \t 6 \t 0.265
+Michael Turner Baltimore Orioles \t 11 \t 0.280
+Emily Perez Colorado Rockies \t 10 \t 0.290
+David Lewis Los Angeles Angels \t 8 \t 0.272
+Jennifer Scott Milwaukee Brewers \t 9 \t 0.278
+
+
+

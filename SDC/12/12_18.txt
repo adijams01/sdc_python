@@ -1,0 +1,41 @@
+Africa :
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+
+Asia:
+Brunei
+Cambodia
+China
+India
+Japan
+
+Europe:
+Denmark
+Estonia
+Finland
+France
+Germany
+
+North america:
+Barbados
+Belize
+Canada
+Costa Rica
+Cuba
+
+South america:
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+
+Australia:
+Tuvalu
+Vanuatu
+Fiji
+Kiribati
+Marshall Islands

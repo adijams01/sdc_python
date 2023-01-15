@@ -1,0 +1,30 @@
+Atlanta Hawks - The Hawks
+Boston Celtics - The Celtics
+Brooklyn Nets - The Nets
+Charlotte Hornets - The Hornets
+Chicago Bulls - The Bulls
+Cleveland Cavaliers - The Cavaliers
+Dallas Mavericks - The Mavericks
+Denver Nuggets - The Nuggets
+Detroit Pistons - The Pistons
+Golden State Warriors - The Warriors
+Houston Rockets - The Rockets
+Indiana Pacers - The Pacers
+Los Angeles Clippers - The Clippers
+Los Angeles Lakers - The Lakers
+Memphis Grizzlies - The Grizzlies
+Miami Heat - The Heat
+Milwaukee Bucks - The Bucks
+Minnesota Timberwolves - The Timberwolves
+New Orleans Pelicans - The Pelicans
+New York Knicks - The Knicks
+Oklahoma City Thunder - The Thunder
+Orlando Magic - The Magic
+Philadelphia 76ers - The 76ers
+Phoenix Suns - The Suns
+Portland Trail Blazers - The Trail Blazers
+Sacramento Kings - The Kings
+San Antonio Spurs - The Spurs
+Toronto Raptors - The Raptors
+Utah Jazz - The Jazz
+Washington Wizards - The Wizards

@@ -1,0 +1,30 @@
+01/01/2022 32 New York
+02/01/2022 25 Chicago
+03/01/2022 30 Los Angeles
+04/01/2022 40 Miami
+05/01/2022 45 Seattle
+06/01/2022 50 Denver
+07/01/2022 55 Austin
+08/01/2022 60 Boston
+09/01/2022 65 San Francisco
+10/01/2022 70 Philadelphia
+11/01/2022 75 Washington D.C.
+12/01/2022 80 Houston
+13/01/2022 85 Las Vegas
+14/01/2022 90 Portland
+15/01/2022 95 Atlanta
+16/01/2022 100 New Orleans
+17/01/2022 105 Baltimore
+18/01/2022 110 Dallas
+19/01/2022 115 San Diego
+20/01/2022 120 Nashville
+21/01/2022 125 Minneapolis
+22/01/2022 130 Tampa
+23/01/2022 135 Detroit
+24/01/2022 140 St. Louis
+25/01/2022 145 Sacramento
+26/01/2022 150 Kansas City
+27/01/2022 155 Phoenix
+28/01/2022 160 Cincinnati
+29/01/2022 165 Cleveland
+30/01/2022 170 Pittsburgh
