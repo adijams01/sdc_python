@@ -6,20 +6,7 @@ class avatar():
         self.hit_points=hit_points
         self.attack_power=attack_power
         self.defence_power=defence_power
-        # self.x=[]
-    # def lists(self):
-    #     t=3
-    #     while(t>0):
-    #         b=[]
-    #         b.append(self.name)
-    #         b.append(self.hit_points)
-    #         b.append(self.attack_power)
-    #         b.append(self.defence_power)
-    #         self.x.append(b)
-    #         # print(self.x)
-    #         t-=1    
-    # def vs(self):
-    #         print(self.x)
+        
         
     def attack(self):
         self.z=(random.randint(1,self.attack_power))
