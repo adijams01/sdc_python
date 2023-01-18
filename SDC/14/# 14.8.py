@@ -40,11 +40,11 @@ h=int(input("hitpoints : "))
 at=int(input("attack power : "))
 d=int(input("defence : "))
 a=avatar(n,h,at,d)
-# a.attack()
-# a.defend()
-# a.is_alive()
-a.lists()
-a.vs()
+a.attack()
+a.defend()
+a.is_alive()
+# a.lists()
+# a.vs()
 
     
         
